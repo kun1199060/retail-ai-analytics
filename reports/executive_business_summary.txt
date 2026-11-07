@@ -1,0 +1,66 @@
+
+============================================================
+RETAIL AI ANALYTICS - BUSINESS RECOMMENDATION REPORT
+============================================================
+
+DATASET SUMMARY
+
+Total Records: 200000
+
+INVENTORY STATUS
+
+Reorder Required: 141862
+No Demand: 47155
+Stock Sufficient: 10983
+
+REORDER PERCENTAGE
+
+70.93%
+
+TOTAL RECOMMENDED ORDER QUANTITY
+
+240,182,649.00
+
+TOP 5 CATEGORIES
+
+           total_demand  total_inventory  total_order_quantity  reorder_records
+family                                                                         
+GROCERY I  2.301109e+07     2.884819e+07            76981399.0             5207
+BEVERAGES  1.426692e+07     1.779235e+07            48833781.0             5080
+PRODUCE    8.076644e+06     1.006411e+07            27580119.0             4268
+CLEANING   6.344015e+06     8.044653e+06            21303416.0             5102
+DAIRY      4.358616e+06     5.477092e+06            14819584.0             5224
+
+TOP 5 STORES
+
+           total_demand  total_inventory  total_order_quantity  reorder_records
+store_nbr                                                                      
+44         4.165929e+06     5.188381e+06            13824279.0             2907
+45         3.534607e+06     4.529169e+06            11975337.0             2965
+47         3.345845e+06     4.277332e+06            11534003.0             2908
+3          3.326155e+06     4.046538e+06            11233663.0             2908
+49         3.100807e+06     3.942251e+06            10556956.0             2923
+
+STOCKOUT RISK RECORDS
+
+135103
+
+BUSINESS RECOMMENDATIONS
+
+1. Prioritize high-order-quantity product categories.
+2. Review stores with high replenishment requirements.
+3. Monitor records flagged with simulated stockout risk.
+4. Avoid automatic replenishment for zero-demand records.
+5. Review reorder quantities before placing purchase orders.
+
+IMPORTANT DATA LIMITATION
+
+Inventory quantities, lead times, demand variability, and
+stockout labels are simulated or assumption-based.
+
+These recommendations are analytical demonstrations and
+should not be treated as actual purchase orders.
+
+============================================================
+END OF REPORT
+============================================================

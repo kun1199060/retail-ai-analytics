@@ -1,0 +1,43 @@
+recommendation_type,priority,entity,recommended_order_quantity,recommendation
+Inventory Management,High,Reorder Required Records,240182649.0,Review reorder recommendations and prioritize records with the largest replenishment requirements.
+Category,High,GROCERY I,76981399.0,Prioritize replenishment of GROCERY I. It has a high cumulative recommended order quantity.
+Category,High,BEVERAGES,48833781.0,Prioritize replenishment of BEVERAGES. It has a high cumulative recommended order quantity.
+Category,High,PRODUCE,27580119.0,Prioritize replenishment of PRODUCE. It has a high cumulative recommended order quantity.
+Category,High,CLEANING,21303416.0,Prioritize replenishment of CLEANING. It has a high cumulative recommended order quantity.
+Category,High,DAIRY,14819584.0,Prioritize replenishment of DAIRY. It has a high cumulative recommended order quantity.
+Store,High,Store 44,13824279.0,Review replenishment requirements for Store 44. It has one of the highest cumulative reorder quantities.
+Store,High,Store 45,11975337.0,Review replenishment requirements for Store 45. It has one of the highest cumulative reorder quantities.
+Store,High,Store 47,11534003.0,Review replenishment requirements for Store 47. It has one of the highest cumulative reorder quantities.
+Store,High,Store 3,11233663.0,Review replenishment requirements for Store 3. It has one of the highest cumulative reorder quantities.
+Store,High,Store 49,10556956.0,Review replenishment requirements for Store 49. It has one of the highest cumulative reorder quantities.
+Category,High,BREAD/BAKERY,9168344.0,Prioritize replenishment of BREAD/BAKERY. It has a high cumulative recommended order quantity.
+Store,High,Store 46,8662693.0,Review replenishment requirements for Store 46. It has one of the highest cumulative reorder quantities.
+Store,High,Store 48,8126575.0,Review replenishment requirements for Store 48. It has one of the highest cumulative reorder quantities.
+Store,High,Store 51,7622676.0,Review replenishment requirements for Store 51. It has one of the highest cumulative reorder quantities.
+Category,High,POULTRY,7019689.0,Prioritize replenishment of POULTRY. It has a high cumulative recommended order quantity.
+Category,High,MEATS,6882329.0,Prioritize replenishment of MEATS. It has a high cumulative recommended order quantity.
+Store,High,Store 8,6782272.0,Review replenishment requirements for Store 8. It has one of the highest cumulative reorder quantities.
+Store,High,Store 50,6425704.0,Review replenishment requirements for Store 50. It has one of the highest cumulative reorder quantities.
+Category,High,PERSONAL CARE,5499645.0,Prioritize replenishment of PERSONAL CARE. It has a high cumulative recommended order quantity.
+Category,High,DELI,5283618.0,Prioritize replenishment of DELI. It has a high cumulative recommended order quantity.
+Stockout Risk,Critical,Store 45 - GROCERY I,95271.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 2 - GROCERY I,90799.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 44 - GROCERY I,86590.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 45 - GROCERY I,86012.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 47 - GROCERY I,85231.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 44 - PRODUCE,83406.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 44 - GROCERY I,81787.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 44 - BEVERAGES,81299.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 46 - GROCERY I,79960.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 46 - GROCERY I,79015.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 44 - PRODUCE,78980.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 44 - BEVERAGES,78502.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 47 - GROCERY I,78174.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 45 - GROCERY I,77686.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 45 - GROCERY I,77630.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 47 - GROCERY I,77065.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 45 - GROCERY I,76177.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 45 - GROCERY I,75943.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 44 - PRODUCE,74470.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Stockout Risk,Critical,Store 44 - PRODUCE,74166.0,Review inventory availability and lead-time demand. This record is flagged by the simulated stockout rule.
+Inventory Management,Medium,Zero-Demand Products,0.0,Avoid automatic replenishment for zero-demand records. Review historical demand before placing new orders.
