@@ -1,0 +1,22 @@
+============================================================
+RETAIL ANALYTICS - BUSINESS OVERVIEW
+============================================================
+
+  Total Revenue........................... $41,133,782,864.75
+  Total Sales (Total_Sales)............... $45,708,091,467.57
+  Total Units Sold........................ 1,817,305
+  Total Transactions...................... 73,000
+  Average Revenue per Transaction......... $563,476.48
+  Average Units per Transaction........... 24.9
+  Average Discount %...................... 10.0%
+  Average Store Rating.................... 4.25
+  Number of Stores........................ 8
+  Number of Products...................... 998
+  Number of Categories.................... 5
+  Number of Brands........................ 20
+  Number of Regions....................... 4
+  Date Range.............................. 2023-01-01 to 2024-12-31
+  Holiday Transactions.................... 897 (1.2%)
+  Promotion Applied %..................... 29.9%
+
+============================================================

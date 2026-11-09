@@ -1,0 +1,49 @@
+{
+  "best_model": "Random Forest",
+  "metrics": [
+    {
+      "Model": "Naive Forecast",
+      "MAE": 7335658.76,
+      "RMSE": 9251211.08,
+      "MAPE (%)": 12.49,
+      "R2 Score": -0.5926
+    },
+    {
+      "Model": "Moving Average (7d)",
+      "MAE": 6231581.95,
+      "RMSE": 7922489.05,
+      "MAPE (%)": 11.56,
+      "R2 Score": -0.1679
+    },
+    {
+      "Model": "Exponential Smoothing",
+      "MAE": 7335658.76,
+      "RMSE": 9251211.08,
+      "MAPE (%)": 12.49,
+      "R2 Score": -0.5926
+    },
+    {
+      "Model": "ARIMA",
+      "MAE": 5777278.0,
+      "RMSE": 7330829.34,
+      "MAPE (%)": 10.65,
+      "R2 Score": -0.0
+    },
+    {
+      "Model": "Random Forest",
+      "MAE": 5185706.2,
+      "RMSE": 6794418.82,
+      "MAPE (%)": 9.49,
+      "R2 Score": 0.141
+    },
+    {
+      "Model": "Gradient Boosting",
+      "MAE": 5358683.28,
+      "RMSE": 6905450.44,
+      "MAPE (%)": 9.76,
+      "R2 Score": 0.1127
+    }
+  ],
+  "train_period": "2023-01-31 to 2024-08-12",
+  "test_period": "2024-08-13 to 2024-12-31"
+}

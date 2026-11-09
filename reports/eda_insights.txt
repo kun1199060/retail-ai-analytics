@@ -1,0 +1,17 @@
+============================================================
+KEY BUSINESS INSIGHTS - EDA PHASE 3
+============================================================
+
+  1. Total revenue over 2 years: $41,133,782,864.75
+  2. Average daily revenue: $56,270,564.79
+  3. Top performing category: Electronics ($8,318,538,868.82)
+  4. Top performing store: STR_103 ($5,223,064,263.80)
+  5. Top performing region: West ($15,409,895,918.25)
+  6. Peak sales month: February
+  7. Lowest sales month: May
+  8. Avg revenue - Weekends: $561877.47 vs Weekdays: $564121.54
+  9. Promotion revenue lift: -4.1%
+  10. Holiday revenue lift: -2.5%
+  11. Transactions with low stock: 0.0%
+
+============================================================

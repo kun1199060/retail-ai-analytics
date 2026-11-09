@@ -1,0 +1,39 @@
+============================================================
+STORE SEGMENTATION REPORT
+Retail Analytics & AI-Powered Sales Forecasting System
+============================================================
+
+
+────────────────────────────────────────────────────────────
+  SEGMENT: HIGH PERFORMER
+────────────────────────────────────────────────────────────
+  Stores: STR_101, STR_103
+  Avg Revenue: $5,196,369,765.34
+  Avg Rating: 4.25
+  Avg Growth Rate: -6.2%
+  Avg Discount: 10.0%
+  Recommendation: Maintain excellence, explore expansion opportunities
+
+────────────────────────────────────────────────────────────
+  SEGMENT: MEDIUM PERFORMER
+────────────────────────────────────────────────────────────
+  Stores: STR_102, STR_104, STR_105, STR_107
+  Avg Revenue: $5,155,486,266.78
+  Avg Rating: 4.25
+  Avg Growth Rate: 0.4%
+  Avg Discount: 10.0%
+  Recommendation: Focus on growth drivers, optimize promotions
+
+────────────────────────────────────────────────────────────
+  SEGMENT: LOW PERFORMER
+────────────────────────────────────────────────────────────
+  Stores: STR_106, STR_108
+  Avg Revenue: $5,059,549,133.47
+  Avg Rating: 4.25
+  Avg Growth Rate: -3.0%
+  Avg Discount: 9.9%
+  Recommendation: Operational review needed, targeted interventions
+
+============================================================
+END OF REPORT
+============================================================
